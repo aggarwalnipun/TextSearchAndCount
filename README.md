@@ -6,7 +6,7 @@ The implementation uses Spring Framework and two different services are implemen
 Operating Instructions
 ==========================
 
-#Building the project
+#Building the project (Alternatively, you can use existing war file in \\TextSearchAndCount\target\ folder)
 1. Copy project to your local drive
 2. Open location in command prompt: cd workspace/TextSearchAndCount
 3. Run command: mvn clean install
